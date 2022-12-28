@@ -1,0 +1,19 @@
+Navegación por la consola de Linux
+#como saber en que carpeta estamos 
+> pwd
+
+# como listar la carpeta 
+> ls
+> ls -la     
+
+# comocreamos un directorio nuevo
+> mkdir NombreDelDirectorio
+
+# como elimino un directorio 
+> rv -R NombreDelDirectorio
+
+# como entro a un directorio 
+> cd NombreDelDirectorio
+
+# como abro visual estudio desde la carpeta actual
+> code .
